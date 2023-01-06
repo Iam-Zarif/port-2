@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: aliceblue;
+}
+#header{
+    /* background-color: blue; */
+    width: 100%;
+    height: 750px;
+}
+#headimg{
+    width: 100%;
+    height: 700px;
+    display: flex;
+}
+
+#lets{
+    margin-top: -400px;
+    margin-left: 400px;
+    color: rgb(255, 254, 255);
+    word-spacing: 14px;
+    font-size: 50px;
+}
+#more{
+    margin-left: 160px;
+}
+#p1{
+    color: whitesmoke;
+    margin-left:400px ;
+ margin-top: 25px;
+ 
+}
+#at{
+    margin-left: 190px;
+}
+#btn-1{
+    margin-left: 700px;
+    margin-top: 99px;
+    padding: 8px 14px;
+    border-radius: 10px;
+    background-color: darkturquoise;
+    border-style: none;
+
+}
+#btn-1:hover{
+    color: whitesmoke;
+    background-color: darkslategray;
+}
+#taka{
+      /* background-color: brown;   */
+    height: 450px;
+    width: 100%;
+}
+#tk-1{
+    margin-left: 640px;
+    margin-top: 50px;
+}
+#tk-2{
+    margin-top: 20px;
+    margin-left: 440px;
+}
+#tk-3{
+    margin-left: 60px;
+}
+#tkamount{
+    margin-left: 340px;
+    margin-top: 80px;
+    
+}
+.tk-4{
+margin-left: 50px;
+padding: 14px 25px;
+font-weight: bolder;
+background-color: gainsboro;
+border-style: none;
+border-radius: 8px;
+border: 3px solid gainsboro;
+}
+.tk-4:hover{
+    border: 3px solid darkturquoise;
+    background-color: rgb(137, 158, 158);
+}
+#tk-5{
+    margin-left: 680px;
+    margin-top: 80px;
+    font-weight: lighter;
+}
+#hr-1{
+margin-top: 10px;
+background-color: darkturquoise;
+width: 600px;
+margin-left: 440px;
+
+}
+#btn-2{
+    padding: 8px 14px;
+    border-radius: 10px;
+    background-color: darkturquoise;
+    border-style: none;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+
+#btn-2:hover{
+    color: whitesmoke;
+    background-color: darkslategray;
+}
+#donate-plan{
+    /* background-color: brown; */
+    height: 500px;
+    width: 100%;
+    margin-top: 100px;
+}
+#donate-plan-1{
+    margin-left: 630px;
+    
+}
+#donate-plan-2{
+    margin-left: 450px;
+    margin-top: 10px;
+}
+#vero{
+    margin-left: 80px;
+}
+#donate-plan-flex{
+    display: flex;
+    gap: 5px;
+}
+#food, #shelter, #education{
+/* background-color: blue; */
+width: 300px;
+height: 290px;
+margin-left: 150px;
+margin-top: 50px;
+}
+#food-1{
+    height: 45px;
+    margin-top: 30px;
+    margin-left: 12px;
+}
+#strong-1{
+    margin-left: 12px;
+}
+#lorem-20{
+    margin-left: 12px;
+    font-weight: lighter;
+    margin-top: 12px;
+}
+#home-1, #study-1{
+    height: 45px;
+    margin-top: 30px;
+    margin-left: 12px;
+}
+#food{
+    background-color: rgba(0, 0, 255, 0.075);
+    border-radius: 5px;
+}
+#shelter{
+    background-color: rgba(128, 255, 0, 0.133);
+    border-radius: 5px;
+}
+#education{
+
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.109);
+}

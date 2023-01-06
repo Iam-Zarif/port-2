@@ -1,0 +1,2 @@
+background-image: linear-gradient(rgba(34, 34, 34, 0), rgb(0, 0, 0)), url('./images/donation8.jpg');
+background-size: cover;
